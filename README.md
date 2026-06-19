@@ -75,11 +75,10 @@ projeto full stack - escola/
 
 ## Tela de Login
 
-> Adicione aqui o print da tela.
 
-```md
+
 ![Tela de Login](images/Tela de Login.png)
-```
+
 
 ---
 
