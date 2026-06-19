@@ -79,7 +79,7 @@ projeto full stack - escola/
 
 ## Tela Principal
 
-![Tela Principal](images/TelavPrincipal.png)
+![Tela Principal](images/Tela Principal.png)
 
 ## Cadastro de Turma
 
