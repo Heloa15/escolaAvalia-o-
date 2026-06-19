@@ -1,0 +1,26 @@
+{
+  "name": "full-stack---wellifabio",
+  "version": "1.0.0",
+  "description": "Atividade Full Stack - Escola ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Heloa15"
+  },
+  "author": "Heloa Vitoria",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "@prisma/adapter-mariadb": "^7.8.0",
+    "@prisma/client": "^7.8.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mariadb": "^3.5.3",
+    "mysql2": "^3.22.5",
+    "prisma": "^7.8.0"
+  }
+}
