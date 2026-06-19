@@ -87,10 +87,8 @@ projeto full stack - escola/
 
 > Adicione aqui o print da tela.
 
-```md
 ![Tela Principal](![Uploading image.png…])
 
-```
 
 ---
 
