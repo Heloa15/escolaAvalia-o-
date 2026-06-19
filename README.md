@@ -116,7 +116,7 @@ projeto full stack - escola/
 ## 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/Heloa15/escolaAvalia-o-.git
 ```
 
 Entre na pasta do projeto:
