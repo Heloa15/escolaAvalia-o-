@@ -122,8 +122,8 @@ git clone https://github.com/Heloa15/escolaAvalia-o-.git
 Entre na pasta do projeto:
 
 ```bash
-cd nome-do-projeto
-```
+cd 
+``` Full Stack - Escola
 
 ---
 
@@ -141,7 +141,7 @@ CREATE DATABASE turmas_db;
 5. Importe o arquivo:
 
 ```
-docs/banco.sql
+docs/insomnia_2026-06-17
 ```
 
 ---
