@@ -89,8 +89,6 @@ projeto full stack - escola/
 ## Cadastro de Turma
 
 ![Cadastro de Turma](Images/CadastrodeTurma.png)
-=======
-![Tela de Login](images/Tela de Login.png)
 
 ## Tela Principal
 
@@ -99,8 +97,6 @@ projeto full stack - escola/
 ## Cadastro de Turma
 
 ![Cadastro de Turma](images/Cadastro de Turma.png)
-
->>>>>>> 38c8d1aba18414f807ed4bbe9ac6b19254d367b1
 
 ---
 
