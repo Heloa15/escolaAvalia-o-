@@ -92,11 +92,11 @@ projeto full stack - escola/
 
 ## Tela Principal
 
-![Tela Principal](images/Tela Principal.png)
+![Tela Principal](images/TelaPrincipal.png)
 
 ## Cadastro de Turma
 
-![Cadastro de Turma](images/Cadastro de Turma.png)
+![Cadastro de Turma](images/CadastrodeTurma.png)
 
 ---
 
