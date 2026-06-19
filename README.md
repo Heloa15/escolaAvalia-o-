@@ -75,52 +75,32 @@ projeto full stack - escola/
 
 ## Tela de Login
 
-> Adicione aqui o print da tela.
-
-```md
-![Tela de Login](docs/imagens/login.png)
-```
+![Tela de Login](Images/TeladeLogin.png)
 
 ---
 
 ## Tela Principal
 
-> Adicione aqui o print da tela.
-
-```md
-![Tela Principal](![Uploading image.png…])
-
-```
+![Tela Principal](Images/TelaPrincipal.png)
 
 ---
 
 ## Cadastro de Turma
 
-> Adicione aqui o print da tela.
-
-```md
-![Cadastro de Turma](docs/imagens/cadastro-turma.png)
-```
+![Cadastro de Turma](Images/CadastrodeTurma.png)
 
 ---
 
 ## Tela de Atividades
 
-> Adicione aqui o print da tela.
 
-```md
-![Tela de Atividades](docs/imagens/atividades.png)
-```
+![Tela de Atividades](Images/AtividadesdaTurma.png)
 
 ---
 
 ## Cadastro de Atividade
 
-> Adicione aqui o print da tela.
-
-```md
-![Cadastro de Atividade](docs/imagens/cadastro-atividade.png)
-```
+![Cadastro de Atividade](Images/CadastrodeAtividades.png)
 
 ---
 
