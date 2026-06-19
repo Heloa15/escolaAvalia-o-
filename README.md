@@ -95,7 +95,7 @@ projeto full stack - escola/
 
 ## Cadastro de Turma
 
-![Cadastro de Turma](images/CadastrodeTurma.png)
+![Cadastro de Turma](Images/CadastrodeTurma.png)
 
 ---
 
