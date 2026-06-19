@@ -75,21 +75,15 @@ projeto full stack - escola/
 
 ## Tela de Login
 
-(images/Tela de Login.png)
-
-
----
+![Tela de Login](images/Tela de Login.png)
 
 ## Tela Principal
 
-(images/Tela Principal.png)
-
-
----
+![Tela Principal](images/TelavPrincipal.png)
 
 ## Cadastro de Turma
 
-(images/Cadastro de Turma.png)
+![Cadastro de Turma](images/Cadastro de Turma.png)
 
 
 ---
